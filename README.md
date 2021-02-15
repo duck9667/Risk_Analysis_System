@@ -26,6 +26,6 @@
 
 # UI
 - 상단 네비게이션바를 통해 메뉴 설정 가능
-- 메뉴바 기능
-[그림1](https://user-images.githubusercontent.com/33515088/107912249-88c59500-6fa1-11eb-8d75-98dd9fc25d5d.png)
+- 메뉴바 기능  
+![그림1](https://user-images.githubusercontent.com/33515088/107912249-88c59500-6fa1-11eb-8d75-98dd9fc25d5d.png)
 

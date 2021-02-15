@@ -23,5 +23,7 @@
 - 좌측 메뉴바를 통해 상세 기능 실행 가능(지도 및 그래프 시각화, 통계 추출, 결과 내려받기)  
 
 ![그림1](https://user-images.githubusercontent.com/33515088/107912249-88c59500-6fa1-11eb-8d75-98dd9fc25d5d.png)
+![그림2](https://user-images.githubusercontent.com/33515088/107914680-50748580-6fa6-11eb-9eb4-022d9218d449.png)
+
 
 # 회고

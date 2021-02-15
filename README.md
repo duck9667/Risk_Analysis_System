@@ -2,10 +2,6 @@
 [![Generic badge](https://img.shields.io/badge/Language-Python,HTML-blue.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Framework-Flask-orange.svg)](https://shields.io/)
 
-
-
-
-
 # Risk_Analysis_System
 웹기반 악취 민원 분석 시스템
 
@@ -19,9 +15,10 @@
 - 시각화
 - 이미지 저장
 
-# 패키지
-- flask : 마이크로 웹 프레임워크
-- plotly : 데이터 시각화 패키지로 Bokeh 처럼 Java scrpit 기반으로 작동한다.
+# Requirements
+- Flask : 마이크로 웹 프레임워크
+- Plotly : 데이터 시각화 패키지로 Bokeh 처럼 Java scrpit 기반으로 작동한다.
+- 
 
 # 데이터
 -

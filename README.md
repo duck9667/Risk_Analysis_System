@@ -1,10 +1,11 @@
-https://img.shields.io/badge/Ubuntu-18.04-brightgreen.svg
-https://img.shields.io/badge/Language-python-yellowgreen.svg
-https://img.shields.io/badge/Language-HTML-yellowgreen.svg
-https://img.shields.io/badge/Framework-Flask-orange.svg
+[![Generic badge](https://img.shields.io/badge/Ubuntu-18.04-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Language-Python-yellowgreen.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Language-HTML-yellowgreen.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Framework-Flask-orange.svg)](https://shields.io/)
 
 
-[![Generic badge](https://img.shields.io/badge/version-1.1.1-green.svg)](https://shields.io/)
+
+
 
 # Risk_Analysis_System
 웹기반 악취 민원 분석 시스템
